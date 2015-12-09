@@ -39,6 +39,7 @@ public class MainActivity extends Activity {
     private static final int DEFAULT_POOL_SIZE = 5;
     private static final int GET_LENGTH_SUCCESS = 1;
     //下载路径
+    //只是修改一点点
     private String downloadPath = Environment.getExternalStorageDirectory() +
             File.separator + "download";
 
